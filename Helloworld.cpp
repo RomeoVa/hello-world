@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 
   cout<<"que pedo"<<'\n';
-  int i=1;
+  int i=0;
 
  return 0;
 }
