@@ -7,6 +7,7 @@ int main(){
   cout<<"que pedo"<<'\n';
   int i=0;
   int n =1;
+  int a=8;
 
  return 0;
 }
